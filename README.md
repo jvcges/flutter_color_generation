@@ -1,12 +1,27 @@
-# flutter_project_template
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+# flutter_color_generation
+Flutter application that generates colors pseudo-randomly
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+# Features
+1. Tap anywhere on the screen: The background color changes to a randomly generated color
+2. Double tap anywhere on the screen: The text color changes to a randomly generated color
+3. Long Press anywhere on the screen: The screen is split and have two background colors now. Long press again to remove.
 
-# Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+
+# Running steps
+- Flutter version: 3.7.3 stable
+1. Clone this repo.
+2. Run flutter pub get.
+3. Choose a device to run.
+4. Run flutter run.
+
+# Test
+- To test: run flutter test.
+
+![image](https://user-images.githubusercontent.com/44687635/218136131-4ab549a0-5b98-4b61-be2d-253de699869e.png)
+
+
+# Analyze
+- To analize: run dart analyze
+
+![analyze](https://user-images.githubusercontent.com/44687635/218136344-583b3e85-2d98-4e49-8938-e6d455fc6f58.png)
+
