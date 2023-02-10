@@ -21,7 +21,7 @@ Flutter application that generates colors pseudo-randomly
 
 
 # Analyze
-- To analize: run dart analyze
+- To analyze: run dart analyze
 
 ![analyze](https://user-images.githubusercontent.com/44687635/218136344-583b3e85-2d98-4e49-8938-e6d455fc6f58.png)
 
